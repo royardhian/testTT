@@ -85,7 +85,7 @@ public class Tab {
 		textField = new JTextField();
 		panel_1.add(textField);
 		textField.setColumns(10);
-		panel_1.add(new JLabel("Specify a word to match:"),
+		panel_1.add(new JLabel("cari di tabel:"),
                 BorderLayout.WEST);
 		panel_1.add(textField, BorderLayout.CENTER);
 	
